@@ -4,7 +4,7 @@ Author URI: https://membersonly.top/features/
 Donate link: https://paypal.me/sunpayment/
 Tags:buddypress,wordpress,restricts,membership,private,protected,member,bbpress,permissions,login access control,restrict access,components,redirect,profile,restricts RSS Feed
 Requires at least: 3.8
-Tested up to: 6.6.1
+Tested up to: 6.8.3
 Stable tag:trunk
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -118,6 +118,9 @@ That's all, when non member view your buddypress site they will be redirect to l
 6. Announcement on Buddypress Members Only register page
 
 == Changelog ==
+= Version 3.6.3 =
+the plugin has been completely rewritten to adhere to wordpress security standards
+
 = Version 3.5.3 =
 Removed migrate notification, because the project has been restored
 
